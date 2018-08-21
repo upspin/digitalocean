@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1cf376d6_1e724436",
+        "filename": "cloud/storage/spaces/spaces.go",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5389
+      },
+      "writtenOn": "2018-08-21T07:59:59Z",
+      "side": 1,
+      "message": "All these files need Copyright headers, and the packages need documentation comments. (see the files in the other repos for examples)",
+      "revId": "4259efe6c732c84db368b8dcd037412570f79176",
+      "serverId": "0759ed4b-3fdc-34dc-866b-f2e708168c03",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "878bcb48_549bc1f8",
+        "filename": "cmd/upspin-setupstorage-spaces/main.go",
+        "patchSetId": 3
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 5389
+      },
+      "writtenOn": "2018-08-21T07:59:59Z",
+      "side": 1,
+      "message": "trailing space",
+      "range": {
+        "startLine": 19,
+        "startChar": 81,
+        "endLine": 19,
+        "endChar": 0
+      },
+      "revId": "4259efe6c732c84db368b8dcd037412570f79176",
+      "serverId": "0759ed4b-3fdc-34dc-866b-f2e708168c03",
+      "unresolved": true
+    }
+  ]
+}
